@@ -81,17 +81,17 @@
       <div class="product">
         <h2>Mapa personalizado</h2>
         <p>R$ 50,00</p>
-        <button onclick="addToCart('Mapa personalizado', 50)">Adicionar ao carrinho</button>
+        <button onclick="addToCart('ROCKSTAR', 50)">Adicionar ao carrinho</button>
       </div>
       <div class="product">
         <h2>Script de polícia</h2>
         <p>R$ 30,00</p>
-        <button onclick="addToCart('Script de polícia', 30)">Adicionar ao carrinho</button>
+        <button onclick="addToCart('SPOOFER', 30)">Adicionar ao carrinho</button>
       </div>
       <div class="product">
         <h2>Skin exclusiva</h2>
         <p>R$ 20,00</p>
-        <button onclick="addToCart('Skin exclusiva', 20)">Adicionar ao carrinho</button>
+        <button onclick="addToCart('MODS MENU', 20)">Adicionar ao carrinho</button>
       </div>
     </section>
 
